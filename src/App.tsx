@@ -507,7 +507,7 @@ export default function App() {
             <div className="relative group">
               <div className="absolute -top-10 -left-10 w-full h-full bg-primary/5 rounded-[60px] -z-10 group-hover:rotate-3 transition-transform" />
               <img 
-                src="https://picsum.photos/seed/ngo-med/800/800"
+                src="https://impulso06.com/wp-content/uploads/2023/10/El-Papel-de-las-ONGs-en-la-Intervencion-Social-para-la-Inmigracion-en-Espana.png"
                 className="rounded-[60px] shadow-2xl w-full aspect-square object-cover"
                 referrerPolicy="no-referrer"
               />
